@@ -1,0 +1,14 @@
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\bin\Debug\LAB_TASK_3_VISUAL_BASIC.exe.config
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\bin\Debug\LAB_TASK_3_VISUAL_BASIC.exe
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\bin\Debug\LAB_TASK_3_VISUAL_BASIC.pdb
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\bin\Debug\LAB_TASK_3_VISUAL_BASIC.xml
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.vbprojResolveAssemblyReference.cache
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.Form1.resources
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.Resources.resources
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.vbproj.GenerateResource.Cache
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.exe
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.xml
+c:\users\novva\documents\visual studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.pdb
+C:\Users\NOVVA\Documents\Visual Studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.Store.resources
+C:\Users\NOVVA\Documents\Visual Studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.SplashScreen1.resources
+C:\Users\NOVVA\Documents\Visual Studio 2015\Projects\LAB_TASK_3_VISUAL_BASIC\LAB_TASK_3_VISUAL_BASIC\obj\Debug\LAB_TASK_3_VISUAL_BASIC.Register.resources
